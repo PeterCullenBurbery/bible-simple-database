@@ -1,0 +1,9 @@
+Enter the PDB name:
+bible_simple
+Enter the admin username:
+bible
+Enter the admin password:
+1234
+Enter the file storage location:
+C:\oracle-pluggable-database\bible-simple
+Pluggable Database created and configured successfully!
